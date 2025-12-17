@@ -22,6 +22,4 @@ Two scenarios are included:
 
 **Experimental acquisition procedure:**  
 ![Experimental Setup](Experimental.png)  
-_or view the PDF [here](Experimental.pdf)_
-
 An image of the imaging setup is also provided in this repository.
