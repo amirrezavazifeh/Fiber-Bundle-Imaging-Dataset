@@ -22,3 +22,7 @@ Two scenarios are included:
 
 **Experimental acquisition procedure:**  
 ![Experimental Setup](Figures/Experimental.png)  
+
+
+> **Note:** In the experimental dataset, **Video 6 (Resolution chart)** is sourced from the *PyFibreBundle* repository:  
+> https://github.com/MikeHughesKent/PyFibreBundle
